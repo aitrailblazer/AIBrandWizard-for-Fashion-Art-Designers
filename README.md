@@ -38,7 +38,8 @@ example: Close-Up
 
 ->Business & Formal Suit: Women's Tailored Suit
 
-![Minimalist Elegance](docs/img/MinimalistElegance01.png)
+![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance01.png)
+
 
 - 3 Enter a Fashion Style
 
@@ -70,7 +71,7 @@ Here is my attempt to enhance the short description of Minimalist Elegance:
 
 A refined minimalist silhouette in rich navy blue wool tailored to perfection elegantly skims the form of a statuesque woman, exuding quiet confidence. The precision cut of the single-button jacket with notch lapels and the matching slim trousers project sharp professionalism through clean lines and expert fit. A tactile silk camisole in azure blue provides subtle contrast. Pointed black stilettos elongate her legs while a thin leather belt cinches her waist. Geometric deco cufflinks and a matching navy chevron scarf add strategic pops of color. The contemporary ensemble fuses classic style with minimalist aesthetic for a portrait of graceful strength and modern sophistication.
 
-![Minimalist Elegance](docs/img/MinimalistElegance02.png)
+![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance02.png)
 
 ## Contemporary Chic
 Assemble a modern outfit that combines a sharply cut blazer with an asymmetrical skirt. Select cutting-edge materials that provide both comfort and a contemporary edge, like a blend with stretch wool. Complement the outfit with angular jewelry and a designer timepiece for a polished, business-ready look.
