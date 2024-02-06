@@ -38,9 +38,6 @@ example: Close-Up
 
 ->Business & Formal Suit: Women's Tailored Suit
 
-![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance01.png)
-
-
 - 3 Enter a Fashion Style
 
 -> Classic
@@ -65,6 +62,9 @@ example: Close-Up
 
 -> Direct Light
 
+
+![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance01.png)
+
 Suggested improved description:
 
 Here is my attempt to enhance the short description of Minimalist Elegance:
@@ -74,7 +74,61 @@ A refined minimalist silhouette in rich navy blue wool tailored to perfection el
 ![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance02.png)
 
 ## Contemporary Chic
-Assemble a modern outfit that combines a sharply cut blazer with an asymmetrical skirt. Select cutting-edge materials that provide both comfort and a contemporary edge, like a blend with stretch wool. Complement the outfit with angular jewelry and a designer timepiece for a polished, business-ready look.
+- 1 Enter Short Description of your design concept
+
+->Assemble a modern outfit that combines a sharply cut blazer with an asymmetrical skirt. Select cutting-edge materials that provide both comfort and a contemporary edge, like a blend with stretch wool. Complement the outfit with angular jewelry and a designer timepiece for a polished, business-ready look.
+
+- 1 Enter Short Description of your design concept
+
+->Craft a refined, form-fitting suit that captures the essence of minimalist elegance. Opt for a palette that is predominantly one color with a strategic splash of an accent hue in the accessories. Emphasize a silhouette that boasts clean lines and a snug fit to project an air of confidence and sharp professionalism.
+
+- 2 Enter a Garment
+
+->Special Occasion Dress
+
+- 3 Enter a Fashion Style
+
+-> Glamorous
+
+4 Enter Occassion
+
+-> Cocktail Party
+
+5 Enter Settings
+
+-> Art Gallery
+
+6 Enter a Photo Style
+
+> Fine Art Fashion Photography
+
+7 Enter a Photo Shot
+
+-> Wide Shot
+
+8 Pick a Lighting Type
+
+-> Warm Light
+
+
+![Contemporary Chic](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/ContemporaryChic01.png)
+
+Suggested improved description:
+
+Here is my attempt at a visual narrative depicting a glamorous contemporary chic special occasion dress for a woman to wear to an art gallery opening:
+
+The scene is a spacious art gallery at night, illuminated by warm track lighting. In the center stands a tall, slender female model with perfect proportions wearing a stunning asymmetrical evening gown.
+
+The dress features a sleek, sequined sweetheart bodice in shades of amethyst, with geometric Art Deco patterns glinting as she moves. The bodice transitions fluidly into a flowing, floor-length chiffon skirt fading from rich purple to pale violet ombre.
+
+Her arms are relaxed, allowing the skirt to sway gently with her graceful movements. She exudes poise and confidence. Her makeup is glamorous yet understated, complementing the contemporary elegance of the gown.
+
+The rich purple tones and fluid asymmetry of the dress offer a modern twist on a classic evening look. The intricate beading reflects the Art Deco surroundings, while the chiffon skirt provides an ethereal finish.
+
+The woman gazes directly at the viewer with a subtle, knowing smile, as if sharing a secret. The dress flatters her tall frame, its sleek lines and ombre fade accentuating her flawless proportions.
+
+This contemporary chic gown is the perfect blend of glamour and artistic edge for the model to don at the exclusive art gallery opening. The scene evokes a sophisticated sense of style, beauty, and creativity.
+
 
 ## Tech-Savvy Trendsetter
 Imagine a chic, smart-casual look that suits the tech-savvy professional. Merge a neatly pressed button-down shirt with a pair of stylish smart trousers and minimalist, tech-enhanced footwear. Incorporate discreet smart textile technology for a subtle nod to the digital age.
