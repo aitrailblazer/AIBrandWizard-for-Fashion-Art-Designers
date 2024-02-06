@@ -30,9 +30,47 @@ example: Close-Up
 
 ## Minimalist Elegance
 
-Craft a refined, form-fitting suit that captures the essence of minimalist elegance. Opt for a palette that is predominantly one color with a strategic splash of an accent hue in the accessories. Emphasize a silhouette that boasts clean lines and a snug fit to project an air of confidence and sharp professionalism.
+- 1 Enter Short Description of your design concept
+
+->Craft a refined, form-fitting suit that captures the essence of minimalist elegance. Opt for a palette that is predominantly one color with a strategic splash of an accent hue in the accessories. Emphasize a silhouette that boasts clean lines and a snug fit to project an air of confidence and sharp professionalism.
+
+- 2 Enter a Garment
+
+->Business & Formal Suit: Women's Tailored Suit
 
 ![Minimalist Elegance](docs/img/MinimalistElegance01.png)
+
+- 3 Enter a Fashion Style
+
+-> Classic
+
+4 Enter Occassion
+
+-> Business Meeting
+
+5 Enter Settings
+
+-> Tech Conference
+
+6 Enter a Photo Style
+
+> Fashion Photography
+
+7 Enter a Photo Shot
+
+-> Medium Shot
+
+8 Pick a Lighting Type
+
+-> Direct Light
+
+Suggested improved description:
+
+Here is my attempt to enhance the short description of Minimalist Elegance:
+
+A refined minimalist silhouette in rich navy blue wool tailored to perfection elegantly skims the form of a statuesque woman, exuding quiet confidence. The precision cut of the single-button jacket with notch lapels and the matching slim trousers project sharp professionalism through clean lines and expert fit. A tactile silk camisole in azure blue provides subtle contrast. Pointed black stilettos elongate her legs while a thin leather belt cinches her waist. Geometric deco cufflinks and a matching navy chevron scarf add strategic pops of color. The contemporary ensemble fuses classic style with minimalist aesthetic for a portrait of graceful strength and modern sophistication.
+
+![Minimalist Elegance](docs/img/MinimalistElegance02.png)
 
 ## Contemporary Chic
 Assemble a modern outfit that combines a sharply cut blazer with an asymmetrical skirt. Select cutting-edge materials that provide both comfort and a contemporary edge, like a blend with stretch wool. Complement the outfit with angular jewelry and a designer timepiece for a polished, business-ready look.
