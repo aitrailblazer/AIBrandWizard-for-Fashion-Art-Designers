@@ -29,7 +29,10 @@ example: Close-Up
 # Modern Business Professional Style Design Examples
 
 ## Minimalist Elegance
+
 Craft a refined, form-fitting suit that captures the essence of minimalist elegance. Opt for a palette that is predominantly one color with a strategic splash of an accent hue in the accessories. Emphasize a silhouette that boasts clean lines and a snug fit to project an air of confidence and sharp professionalism.
+
+![Minimalist Elegance](docs/img/MinimalistElegance01.png)
 
 ## Contemporary Chic
 Assemble a modern outfit that combines a sharply cut blazer with an asymmetrical skirt. Select cutting-edge materials that provide both comfort and a contemporary edge, like a blend with stretch wool. Complement the outfit with angular jewelry and a designer timepiece for a polished, business-ready look.
