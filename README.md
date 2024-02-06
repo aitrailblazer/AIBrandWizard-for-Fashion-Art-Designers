@@ -63,7 +63,7 @@ example: Close-Up
 -> Direct Light
 
 
-![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance01.png)
+![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/MinimalistElegance01.png)
 
 Suggested improved description:
 
@@ -71,7 +71,7 @@ Here is my attempt to enhance the short description of Minimalist Elegance:
 
 A refined minimalist silhouette in rich navy blue wool tailored to perfection elegantly skims the form of a statuesque woman, exuding quiet confidence. The precision cut of the single-button jacket with notch lapels and the matching slim trousers project sharp professionalism through clean lines and expert fit. A tactile silk camisole in azure blue provides subtle contrast. Pointed black stilettos elongate her legs while a thin leather belt cinches her waist. Geometric deco cufflinks and a matching navy chevron scarf add strategic pops of color. The contemporary ensemble fuses classic style with minimalist aesthetic for a portrait of graceful strength and modern sophistication.
 
-![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/MinimalistElegance02.png)
+![Minimalist Elegance -1](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/MinimalistElegance02.png)
 
 ## Contemporary Chic
 - 1 Enter Short Description of your design concept
@@ -111,7 +111,7 @@ A refined minimalist silhouette in rich navy blue wool tailored to perfection el
 -> Warm Light
 
 
-![Contemporary Chic](https://aitrailblazer.github.io/AIBrandWizard-for-The-Fashion-Art-Designer/img/ContemporaryChic01.png)
+![Contemporary Chic](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/ContemporaryChic01.png)
 
 Suggested improved description:
 
