@@ -323,7 +323,7 @@ Design a stylish and modern raincoat with a fun, colorful pattern or colorblocki
 
 Visualization:
 
-![The AIBrandWizard for Fashion Designers V4](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/The_AIBrandWizard_V3.png)
+![The AIBrandWizard for Fashion Designers V4](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/The_AIBrandWizard_V4.png)
 
 ![The AIBrandWizard for Fashion Designers V4 UI](https://aitrailblazer.github.io/AIBrandWizard-for-Fashion-Art-Designers/img/The_AIBrandWizard_V4-ui01.png)
 
